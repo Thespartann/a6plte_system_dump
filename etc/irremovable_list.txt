@@ -49,13 +49,11 @@
 /system/usr/srec/en-US/pumpkin.mmap
 /system/priv-app/SecSettings/oat/arm/SecSettings.vdex
 /system/app/SamsungCalendar/SamsungCalendar.apk
-/system/priv-app/ContainerAgent3/ContainerAgent3.apk
 /system/priv-app/Gear360Editor_WQHD_Star/Gear360Editor_WQHD_Star.apk
 /system/app/DictDiotekForSec/DictDiotekForSec.apk
 /system/priv-app/SecSetupWizard_Global/SecSetupWizard_Global.apk
 /system/lib/libLLVM.so
 /system/priv-app/SystemUI/oat/arm/SystemUI.vdex
-/system/priv-app/SecureFolder/SecureFolder.apk
 /system/saiv/image_understanding/db/BV_detector_generic_light.caffemodel
 /system/saiv/image_understanding/db/BV_detector_shopping_light.caffemodel
 /system/priv-app/ThemeStore/ThemeStore.apk
@@ -121,12 +119,10 @@
 /system/saiv/imageclassification_2.5_od/db/preview_verification.caffemodel
 /system/framework/arm/boot-core-oj.vdex
 /system/priv-app/HwModuleTest/HwModuleTest.apk
-/system/app/MDMApp/MDMApp.apk
 /system/priv-app/SamsungVideoPlayer2016/SamsungVideoPlayer2016.apk
 /system/hidden/INTERNAL_SDCARD/Samsung/Music/Over_the_Horizon.mp3
 /system/usr/srec/en-US/lstm_model.uint8.data
 /system/cameradata/track_data.dat
-/system/app/UniversalMDMClient/UniversalMDMClient.apk
 /system/lib/libpdfium.so
 /system/framework/arm/boot-telephony-common.oat
 /system/usr/srec/en-US/rescoring.fst.compact
@@ -205,7 +201,6 @@
 /system/saiv/textrecognition/std/detection_kor.dat
 /system/lib/hw/bluetooth.default.so
 /system/saiv/textrecognition/std/detection_eng_kor.dat
-/system/app/SecurityLogAgent/SecurityLogAgent.apk
 /system/lib/libandroid_runtime.so
 /system/lib/libstagefright_soft_ac4dec.so
 /system/lib/libart-compiler.so
@@ -225,11 +220,9 @@
 /system/lib/libicui18n.so
 /system/priv-app/MediaLearningPlatform/MediaLearningPlatform.apk
 /system/framework/arm/boot-sec_edm.vdex
-/system/priv-app/SPDClient/SPDClient.apk
 /system/lib/libasf_fileshareserver.so
 /system/app/AllshareFileShare/AllshareFileShare.apk
 /system/priv-app/SPPPushClient/SPPPushClient.apk
-/system/priv-app/KnoxCore/KnoxCore.apk
 /system/lib/libseemore.so
 /system/priv-app/ConfigUpdater/ConfigUpdater.apk
 /system/lib/libtruescanner.so
@@ -341,11 +334,9 @@
 /system/priv-app/SVCAgent/SVCAgent.apk
 /system/lib/vndk-sp/libbcinfo.so
 /system/lib/libbcinfo.so
-/system/container/SharedDeviceKeyguard/SharedDeviceKeyguard.apk
 /system/lib/libc.so
 /system/etc/epdg_apns_conf.xml
 /system/app/SPrintSpooler/SPrintSpooler.apk
-/system/priv-app/KLMSAgent/KLMSAgent.apk
 /system/lib/soundfx/libswdap.so
 /system/media/audio/ringtones/Over_the_Horizon_Mellow_Mix.ogg
 /system/lib/libcrypto.so
@@ -354,7 +345,6 @@
 /system/tts/lang_SMT/smt_it_IT_f00.dt
 /system/lib/libxml2.so
 /system/framework/arm/boot-core-libart.art
-/system/priv-app/KnoxCore/oat/arm/KnoxCore.odex
 /system/tts/lang_pico/en-US_lh0_sg.bin
 /system/etc/selinux/plat_sepolicy.cil
 /system/framework/arm/boot-org.apache.http.legacy.boot.oat
@@ -418,10 +408,7 @@
 /system/lib/libQmageDecoder.so
 /system/framework/arm/boot-telephony-common.art
 /system/saiv/imageclassification_2.5_od/db/OSC2.5_2ndtrained_reduce_fix.db
-/system/priv-app/DiagMonAgent/DiagMonAgent.apk
-/system/framework/knoxsdk.jar
 /system/priv-app/BlueLightFilter/BlueLightFilter.apk
-/system/app/bootagent/bootagent.apk
 /system/tts/lang_pico/en-GB_kh0_sg.bin
 /system/priv-app/SecSettingsProvider/oat/arm/SecSettingsProvider.odex
 /system/saiv/imageclassification_2.5_od/db/preview_verification_svm.db
@@ -548,7 +535,6 @@
 /system/priv-app/Rlc/Rlc.apk
 /system/lib/android.hardware.media.omx@1.0.so
 /system/framework/arm/boot-conscrypt.vdex
-/system/priv-app/KnoxCore/oat/arm/KnoxCore.vdex
 /system/lib/libaudioclient.so
 /system/usr/srec/en-US/semantics.pumpkin
 /system/media/audio/ringtones/Space_Funk.ogg
@@ -679,7 +665,6 @@
 /system/framework/oat/arm/monkey.odex
 /system/media/audio/ringtones/Starlight.ogg
 /system/fonts/NotoSerif-Italic.ttf
-/system/app/BBCAgent/BBCAgent.apk
 /system/lib/vndk-sp/libRS_internal.so
 /system/lib/libRS_internal.so
 /system/fonts/NotoSerif-Bold.ttf
@@ -787,7 +772,6 @@
 /system/app/BuiltInPrintService/BuiltInPrintService.apk
 /system/priv-app/CarrierConfig/CarrierConfig.apk
 /system/lib/libopenjdk.so
-/system/app/SecureFolderSetupPage/SecureFolderSetupPage.apk
 /system/framework/arm/boot-voip-common.vdex
 /system/lib/libstagefright_soft_mpeg4enc.so
 /system/priv-app/KeyguardWallpaperUpdator/KeyguardWallpaperUpdator.apk
@@ -844,7 +828,6 @@
 /system/lib/vndk-sp/libpng.so
 /system/lib/libpng.so
 /system/lib/libinput.so
-/system/priv-app/knoxvpnproxyhandler/knoxvpnproxyhandler.apk
 /system/usr/hyphen-data/hyph-nn.hyb
 /system/usr/hyphen-data/hyph-nb.hyb
 /system/lib/libaudiohal.so
@@ -929,7 +912,6 @@
 /system/framework/arm/boot-sec_edm.oat
 /system/lib/android.hardware.configstore@1.0.so
 /system/fonts/NotoNaskhArabicUI-Bold.ttf
-/system/container/KnoxBluetooth/KnoxBluetooth.apk
 /system/lib/android.hardware.health@1.0.so
 /system/lib/libsoftkeymasterdevice.so
 /system/lib/libminikin.so
@@ -1191,14 +1173,12 @@
 /system/lib/vndk-sp/libbacktrace.so
 /system/lib/libbacktrace.so
 /system/lib/liblz4.so
-/system/container/KnoxBBCProvider/KnoxBBCProvider.apk
 /system/framework/oat/arm/gamesdk.odex
 /system/lib/libstagefright_amrnb_common.so
 /system/framework/arm/boot-esecomm.vdex
 /system/lib/libRS.so
 /system/framework/motionrecognitionservice.jar
 /system/framework/oat/arm/mdcservice.vdex
-/system/app/SysScope/SysScope.apk
 /system/bin/logwrapper
 /system/bin/gatekeeperd
 /system/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk
@@ -1234,7 +1214,6 @@
 /system/fonts/NotoSansMalayalamUI-Bold.ttf
 /system/fonts/NotoSansMalayalam-Bold.ttf
 /system/framework/fipstimakeystore.jar
-/system/priv-app/SKMSAgent/SKMSAgent.apk
 /system/media/audio/ringtones/Rush.ogg
 /system/bin/incidentd
 /system/framework/videoeditor_sdk.jar
@@ -1260,9 +1239,7 @@
 /system/framework/oat/arm/com.android.location.provider.odex
 /system/framework/oat/arm/bmgr.odex
 /system/app/sveservice/oat/arm/sveservice.odex
-/system/app/KnoxKeyChain/oat/arm/KnoxKeyChain.odex
 /system/lib/liblogcat.so
-/system/app/SecurityProviderSEC/SecurityProviderSEC.apk
 /system/framework/sec_sdp_sdk.jar
 /system/lib/librtppayload.so
 /system/framework/monkey.jar
@@ -1340,7 +1317,6 @@
 /system/lib/libscveObjectTracker_stub.so
 /system/lib/libext2_blkid.so
 /system/media/audio/notifications/Robot.ogg
-/system/app/SamsungDLPService/SamsungDLPService.apk
 /system/media/audio/notifications/Piano.ogg
 /system/lib/libwcnftms.so
 /system/etc/hostapd/hostapd_default.conf
@@ -1437,7 +1413,6 @@
 /system/lib/modules/test-iosched.ko
 /system/fonts/SECTamilUI-Bold.ttf
 /system/fonts/SECTamil-Bold.ttf
-/system/app/FidoCryptoService/FidoCryptoService.apk
 /system/fonts/SECTamilUI-Regular.ttf
 /system/fonts/SECTamil-Regular.ttf
 /system/framework/codecsolution.jar
@@ -1629,7 +1604,6 @@
 /system/framework/oat/arm/com.android.mediadrm.signer.odex
 /system/framework/oat/arm/appwidget.odex
 /system/bin/tima_dump_log
-/system/lib/libjni_knoxvpnproxyhandler.so
 /system/xbin/jack_transport
 /system/lib/libpowermanager.so
 /system/framework/oat/arm/gamesdk.vdex
@@ -1696,7 +1670,6 @@
 /system/etc/media_profiles_8953_v1.xml
 /system/priv-app/CtsShimPrivPrebuilt/CtsShimPrivPrebuilt.apk
 /system/framework/oat/arm/bmgr.vdex
-/system/app/KnoxKeyChain/oat/arm/KnoxKeyChain.vdex
 /system/fonts/NotoSansCham-Bold.ttf
 /system/fonts/NotoSansCham-Regular.ttf
 /system/tts/lang_SMT/smt_fr_FR_f00.qs
@@ -1850,7 +1823,6 @@
 /system/lib/jack/out.so
 /system/xbin/jack_lsp
 /system/lib/jack/in.so
-/system/lib/libsem_jni.so
 /system/lib/libscveBlobDescriptor_stub.so
 /system/lib/libqvr_adsp_driver_stub.so
 /system/lib/libjni_sharpshooter.so
@@ -2008,7 +1980,6 @@
 /system/lib/librilutils.so
 /system/lib/libknox_keyutils.so
 /system/lib/libExtendedExtractor.so
-/system/lib/libknoxvpnfdsender.so
 /system/lib/libesecomm_adapter.so
 /system/lib/libpackagelistparser.so
 /system/lib/libsamsungvad.so
@@ -2029,7 +2000,6 @@
 /system/fonts/NotoSansTaiViet-Regular.ttf
 /system/usr/keychars/qwerty.kcm
 /system/media/audio/ui/TW_Battery_caution.ogg
-/system/app/KnoxKeyChain/KnoxKeyChain.apk
 /system/framework/com.quicinc.cne.api-V1.0-java.jar
 /system/fonts/NotoSansGlagolitic-Regular.ttf
 /system/framework/oat/arm/media_cmd.vdex
@@ -2082,7 +2052,6 @@
 /system/framework/com.android.location.provider.jar
 /system/priv-app/GoogleExtServices/GoogleExtServices.apk
 /system/fonts/NotoSansOldPersian-Regular.ttf
-/system/app/KnoxAttestationAgent/KnoxAttestationAgent.apk
 /system/fonts/SamsungMyanmarShan-Regular.ttf
 /system/media/audio/ui/camera_click.ogg
 /system/media/audio/ui/Shutter.ogg
@@ -2465,7 +2434,6 @@
 /system/framework/sagearpolicymanager.jar
 /system/media/battery_082.spi
 /system/etc/security/cacerts/57692373.0
-/system/framework/knoxvpnuidtag.jar
 /system/etc/security/cacerts/262ba90f.0
 /system/etc/security/cacerts/9772ca32.0
 /system/spirv/b0000400000000001.spv
@@ -2903,7 +2871,6 @@
 /system/usr/keylayout/Vendor_054c_Product_05c4.kl
 /system/etc/permissions/privapp-permissions-com.sec.android.app.soundalive.xml
 /system/etc/media_codecs_sec_secondary.xml
-/system/etc/permissions/privapp-permissions-com.samsung.knox.securefolder.xml
 /system/framework/SecProductFeature_MMFW.jar
 /system/etc/permissions/privapp-permissions-com.policydm.xml
 /system/etc/init/dumpstate.rc
@@ -2934,7 +2901,6 @@
 /system/etc/permissions/privapp-permissions-com.sec.android.diagmonagent.xml
 /system/framework/SecProductFeature_GPS.jar
 /system/etc/permissions/privapp-permissions-com.samsung.android.airtel.stubapp.xml
-/system/etc/permissions/knoxsdk_edm.xml
 /system/usr/srec/en-US/skip_items_bias.fst
 /system/usr/hyphen-data/hyph-nn.lic.txt
 /system/usr/hyphen-data/hyph-nb.lic.txt
@@ -2950,7 +2916,6 @@
 /system/etc/permissions/privapp-permissions-com.samsung.android.provider.shootingmodeprovider.xml
 /system/usr/hyphen-data/hyph-und-ethi.lic.txt
 /system/etc/permissions/privapp-permissions-de.axelspringer.yana.zeropage.xml
-/system/etc/permissions/privapp-permissions-com.samsung.android.knox.containercore.xml
 /system/etc/permissions/privapp-permissions-com.sec.android.app.magnifier.xml
 /system/etc/permissions/privapp-permissions-com.samsung.android.networkdiagnostic.xml
 /system/etc/permissions/privapp-permissions-com.sec.hearingadjust.xml
@@ -3028,7 +2993,6 @@
 /system/etc/permissions/android.software.sip.voip.xml
 /system/etc/seccomp_policy/mediaextractor.policy
 /system/framework/oat/arm/SecProductFeature_VISUALEFFECT.vdex
-/system/etc/permissions/privapp-permissions-com.samsung.android.knox.containeragent.xml
 /system/usr/idc/qwerty2.idc
 /system/usr/idc/qwerty.idc
 /system/etc/permissions/privapp-permissions-com.samsung.android.mobileservice.xml
@@ -3103,7 +3067,6 @@
 /system/etc/permissions/android.software.freeform_window_management.xml
 /system/framework/oat/arm/SecProductFeature_HWR.vdex
 /system/etc/permissions/com.sec.feature.multiwindow.snap_view.xml
-/system/etc/permissions/knoxsdk_mdm.xml
 /system/usr/hyphen-data/hyph-hy.lic.txt
 /system/etc/permissions/authfw.xml
 /system/etc/permissions/android.software.verified_boot.xml
@@ -3218,7 +3181,6 @@
 /system/etc/permissions/uimremoteserver.xml
 /system/etc/permissions/permissions-com.sec.android.mdc.xml
 /system/etc/permissions/uimremoteclient.xml
-/system/etc/permissions/privapp-permissions-com.knox.vpn.proxyhandler.xml
 /system/etc/init/secure_storage_daemon_qsee.rc
 /system/etc/init/cameraserver.rc
 /system/etc/permissions/com.samsung.android.api.version.xml
@@ -3356,7 +3318,6 @@
 /system/etc/hosts
 /system/etc/appmanager.conf
 /system/etc/multisound_restricted_package_list
-/system/priv-app/knoxvpnproxyhandler/lib/arm/libjni_knoxvpnproxyhandler.so
 /system/app/sveservice/lib/arm/libsamsung_videoengine_8_0.so
 /system/etc/permissions/shealth_sw_pedometer_paused.xml
 /system/bin/settings

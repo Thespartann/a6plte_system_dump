@@ -45,9 +45,6 @@
     <allow-implicit-broadcast action="com.samsung.intent.action.CUSTOMER_TEST_REQUEST" />
     <allow-implicit-broadcast action="com.samsung.intent.action.CUSTOMER_TEST_RESPONSE" />
 
-    <allow-implicit-broadcast action="com.sec.enterprise.knox.intent.action.ENROLL" />
-    <allow-implicit-broadcast action="com.sec.enterprise.knox.intent.action.UNENROLL" />
-
     <!-- discussed with Google on b/66965143 -->
     <allow-implicit-broadcast action="android.app.action.SYSTEM_UPDATE_POLICY_CHANGED" />
 
@@ -69,8 +66,6 @@
         service="com.samsung.android.service.peoplestripe/com.samsung.android.service.peoplestripePeopleNotiListenerService" />
     <backup-transport-whitelisted-service
         service="com.samsung.android.service.peoplestripe.PeopleStripeService/com.samsung.android.service.peoplestripe.people.edgepanel.PeopleHelpRemoteAdapter"/>
-    <backup-transport-whitelisted-service
-        service="com.samsung.knox.securefolder/com.samsung.knox.securefolder" />
     <backup-transport-whitelisted-service
         service="com.sec.android.easyMover/com.sec.android.easyMover" />
 

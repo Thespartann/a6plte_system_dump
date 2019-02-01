@@ -15,8 +15,6 @@
 /system/app/SamsungTTS/SamsungTTS.apk
 /system/app/STalkback/STalkback.apk
 /system/app/UniversalSwitch/UniversalSwitch.apk
-/system/app/MDMApp/MDMApp.apk
-/system/app/UniversalMDMClient/UniversalMDMClient.apk
 /system/app/GameOptimizer/GameOptimizer.apk
 /system/app/FBAppManager_NS/FBAppManager_NS.apk
 /system/app/ANTPlusPlugins/ANTPlusPlugins.apk
@@ -24,7 +22,6 @@
 /system/app/SmartMirroring/SmartMirroring.apk
 /system/app/EmergencyModeService/EmergencyModeService.apk
 /system/app/HiyaService/HiyaService.apk
-/system/app/SecurityLogAgent/SecurityLogAgent.apk
 /system/app/GoogleCalendarSyncAdapter/GoogleCalendarSyncAdapter.apk
 /system/app/AllshareFileShare/AllshareFileShare.apk
 /system/app/SamsungPassAutofill_v1/SamsungPassAutofill_v1.apk
@@ -45,7 +42,6 @@
 /system/app/FactoryCameraFB/FactoryCameraFB.apk
 /system/app/UPSMTheme/UPSMTheme.apk
 /system/app/GearManagerStub/GearManagerStub.apk
-/system/app/bootagent/bootagent.apk
 /system/app/SecHTMLViewer/SecHTMLViewer.apk
 /system/app/RcsSettings/RcsSettings.apk
 /system/app/FactoryAirCommandManager/FactoryAirCommandManager.apk
@@ -59,12 +55,10 @@
 /system/app/FilterProvider/FilterProvider.apk
 /system/app/PhotoTable/PhotoTable.apk
 /system/app/Stk/Stk.apk
-/system/app/BBCAgent/BBCAgent.apk
 /system/app/EasterEgg/EasterEgg.apk
 /system/app/DownloadProviderUi/DownloadProviderUi.apk
 /system/app/Stk2/Stk2.apk
 /system/app/BuiltInPrintService/BuiltInPrintService.apk
-/system/app/SecureFolderSetupPage/SecureFolderSetupPage.apk
 /system/app/EasyOneHand3/EasyOneHand3.apk
 /system/app/KeyChain/KeyChain.apk
 /system/app/SLocation/SLocation.apk
@@ -85,15 +79,11 @@
 /system/app/ShortcutBackupService/ShortcutBackupService.apk
 /system/app/ANTPlusTest/ANTPlusTest.apk
 /system/app/AASAservice/AASAservice.apk
-/system/app/SysScope/SysScope.apk
-/system/app/SecurityProviderSEC/SecurityProviderSEC.apk
 /system/app/EdmVpnServices/EdmVpnServices.apk
 /system/app/vsimservice/vsimservice.apk
-/system/app/SamsungDLPService/SamsungDLPService.apk
 /system/app/SilentLog/SilentLog.apk
 /system/app/BluetoothTest/BluetoothTest.apk
 /system/app/BasicDreams/BasicDreams.apk
-/system/app/FidoCryptoService/FidoCryptoService.apk
 /system/app/ClipboardSaveService/ClipboardSaveService.apk
 /system/app/GooglePrintRecommendationService/GooglePrintRecommendationService.apk
 /system/app/embms/embms.apk
@@ -110,11 +100,9 @@
 /system/app/ConfURIDialer/ConfURIDialer.apk
 /system/app/sveservice/sveservice.apk
 /system/app/com.qualcomm.qti.services.secureui/com.qualcomm.qti.services.secureui.apk
-/system/app/KnoxKeyChain/KnoxKeyChain.apk
 /system/app/BookmarkProvider/BookmarkProvider.apk
 /system/app/BluetoothMidiService/BluetoothMidiService.apk
 /system/app/TetheringAutomation/TetheringAutomation.apk
-/system/app/KnoxAttestationAgent/KnoxAttestationAgent.apk
 /system/app/ChromeCustomizations/ChromeCustomizations.apk
 /system/app/WallpaperBackup/WallpaperBackup.apk
 /system/app/EdmSimPinService/EdmSimPinService.apk
@@ -149,10 +137,8 @@
 /system/priv-app/BixbyHome/BixbyHome.apk
 /system/priv-app/GameHome/GameHome.apk
 /system/priv-app/SamsungBilling/SamsungBilling.apk
-/system/priv-app/ContainerAgent3/ContainerAgent3.apk
 /system/priv-app/Gear360Editor_WQHD_Star/Gear360Editor_WQHD_Star.apk
 /system/priv-app/SecSetupWizard_Global/SecSetupWizard_Global.apk
-/system/priv-app/SecureFolder/SecureFolder.apk
 /system/priv-app/ThemeStore/ThemeStore.apk
 /system/priv-app/SamsungCamera7/SamsungCamera7.apk
 /system/priv-app/NetworkUI/NetworkUI.apk
@@ -200,9 +186,7 @@
 /system/priv-app/SamsungPayStubMini/SamsungPayStubMini.apk
 /system/priv-app/HiddenNetworkSetting/HiddenNetworkSetting.apk
 /system/priv-app/MediaLearningPlatform/MediaLearningPlatform.apk
-/system/priv-app/SPDClient/SPDClient.apk
 /system/priv-app/SPPPushClient/SPPPushClient.apk
-/system/priv-app/KnoxCore/KnoxCore.apk
 /system/priv-app/ConfigUpdater/ConfigUpdater.apk
 /system/priv-app/SamsungMultiWindow/SamsungMultiWindow.apk
 /system/priv-app/AssistantMenu_N/AssistantMenu_N.apk
@@ -224,7 +208,6 @@
 /system/priv-app/SamsungMagnifier3/SamsungMagnifier3.apk
 /system/priv-app/SamsungPositioning/SamsungPositioning.apk
 /system/priv-app/SVCAgent/SVCAgent.apk
-/system/priv-app/KLMSAgent/KLMSAgent.apk
 /system/priv-app/FingerprintService2/FingerprintService2.apk
 /system/priv-app/SoundAlive_52/SoundAlive_52.apk
 /system/priv-app/GalaxyAppsWidget_Phone_Dream/GalaxyAppsWidget_Phone_Dream.apk
@@ -235,7 +218,6 @@
 /system/priv-app/FBServices/FBServices.apk
 /system/priv-app/com.qualcomm.location/com.qualcomm.location.apk
 /system/priv-app/SecDownloadProvider/SecDownloadProvider.apk
-/system/priv-app/DiagMonAgent/DiagMonAgent.apk
 /system/priv-app/BlueLightFilter/BlueLightFilter.apk
 /system/priv-app/SecTelephonyProvider/SecTelephonyProvider.apk
 /system/priv-app/BioFaceService/BioFaceService.apk
@@ -271,7 +253,6 @@
 /system/priv-app/CarrierConfig/CarrierConfig.apk
 /system/priv-app/KeyguardWallpaperUpdator/KeyguardWallpaperUpdator.apk
 /system/priv-app/IPService/IPService.apk
-/system/priv-app/knoxvpnproxyhandler/knoxvpnproxyhandler.apk
 /system/priv-app/HealthService/HealthService.apk
 /system/priv-app/PhoneErrService/PhoneErrService.apk
 /system/priv-app/ModemServiceMode/ModemServiceMode.apk
@@ -287,7 +268,6 @@
 /system/priv-app/AirtelStub/AirtelStub.apk
 /system/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk
 /system/priv-app/BadgeProvider_N/BadgeProvider_N.apk
-/system/priv-app/SKMSAgent/SKMSAgent.apk
 /system/priv-app/ExternalStorageProvider/ExternalStorageProvider.apk
 /system/priv-app/MmsService/MmsService.apk
 /system/priv-app/StatementService/StatementService.apk

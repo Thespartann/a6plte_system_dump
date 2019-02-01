@@ -213,14 +213,6 @@
     <allow-in-power-save package="com.android.cellbroadcastreceiver" />
     <allow-in-power-save package="com.android.shell" />
 
-    <!-- SecProductFeature_KNOX.SEC_PRODUCT_FEATURE_KNOX_SUPPORT_MDM { -->
-    <!-- Knox Service -->
-    <allow-in-power-save package="com.samsung.klmsagent" />
-    <allow-in-data-usage-save package="com.samsung.klmsagent" />
-    <allow-in-power-save package="com.sec.enterprise.knox.cloudmdm.smdms" />
-    <allow-in-data-usage-save package="com.sec.enterprise.knox.cloudmdm.smdms" />
-    <!-- } SecProductFeature_KNOX.SEC_PRODUCT_FEATURE_KNOX_SUPPORT_MDM -->
-
     <!-- These are the packages that are white-listed to be able to run as system user -->
     <system-user-whitelisted-app package="com.android.settings" />
 
@@ -312,11 +304,6 @@
 
     <!-- Sound Quality andEffects -->
     <allow-in-power-save package="com.sec.android.app.soundalive" />
-
-    <!-- Knox container -->
-    <allow-in-power-save package="com.samsung.android.knox.containercore" />
-    <allow-in-power-save package="com.samsung.android.knox.containeragent" />
-    <allow-in-power-save package="com.samsung.knox.securefolder" />
 
     <!-- GalaxyBetaServicePlugin -->
     <allow-in-power-save package="com.samsung.android.galaxybetaserviceplugin" />

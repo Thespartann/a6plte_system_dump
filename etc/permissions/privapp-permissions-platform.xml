@@ -356,7 +356,6 @@ applications that come with the platform
         <permission name="com.samsung.android.permission.EXTRACT_SMARTCLIP_DATA"/>
         <permission name="com.samsung.android.permission.SSRM_NOTIFICATION_PERMISSION"/>
         <permission name="com.samsung.permission.CAPTURE"/>
-        <permission name="com.sec.knox.permission.KEYGUARD_SERVICE" />
         <permission name="android.permission.CRYPT_KEEPER" />
         <permission name="android.permission.WRITE_APN_SETTINGS" />
         <permission name="android.permission.ACCESS_NOTIFICATIONS" />
